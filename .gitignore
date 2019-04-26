@@ -1,0 +1,15 @@
+.idea
+.log
+backup
+**/node_modules/*
+**/.firebaserc
+*/npm-debug.log
+*~
+service-account-credentials.json
+functions/firebase-debug.log
+../firebase-debug.log
+npm-debug.log
+firebase-debug.log
+functions/secret/**
+cloud-functions-emulator.log
+.runtimeconfig.json
